@@ -1,36 +1,36 @@
-Hi, I’m Andy Saeed
+👋 Hi, I’m Harley Inton
 
-📋 **Project Manager | Agile Practitioner | Delivery Specialist**  
-📧 **Email:** [andysaeed937@gmail.com](mailto:andysaeed937@gmail.com)
+💼 **Dynamics 365 Specialist | Power Platform Developer | CRM & ERP Consultant**  
+📧 **Email:** [harleyinton9@gmail.com](mailto:harleyinton9@gmail.com)
 
 ---
 
 ## 💼 Core Skills
 
-- 🔹 **Project Planning & Scheduling** – Agile, Scrum, Waterfall  
-- 🔹 **Team Leadership & Collaboration**  
-- 🔹 **Risk Management & Mitigation**  
-- 🔹 **Stakeholder Communication & Reporting**  
-- 🔹 **Resource Allocation & Budgeting**  
-- 🔹 **Tools:** Jira, Trello, Microsoft Project, Asana, MS Excel  
+- 🔹 **Dynamics 365 CRM & ERP** – Configuration, Customization, and Integration  
+- 🔹 **Power Platform** – Power Apps, Power Automate, Power BI, Virtual Agents  
+- 🔹 **Custom Development** – Plugins, Workflows, Business Rules (C#, JavaScript)  
+- 🔹 **Dataverse & CDS** – Table Design, Data Modeling, Security Roles  
+- 🔹 **Integration Services** – REST APIs, OData, Azure Functions, Logic Apps  
+- 🔹 **DevOps & ALM** – Azure DevOps Pipelines, Git, LCS  
 
 ---
 
 ## 🚀 Interests & Experience
 
-- ✅ Managing cross-functional teams for successful project delivery  
-- ✅ Driving Agile transformation and process improvement  
-- ✅ Coordinating multi-phase software development projects  
-- ✅ Ensuring timely delivery within scope and budget  
+- ✅ End-to-end Dynamics 365 solution architecture  
+- ✅ AI-driven automation using Power Platform & Azure  
+- ✅ Data migration and Dual Write implementations  
+- ✅ Business process optimization and analytics  
 
 ---
 
 ## 🌱 Currently Learning
 
-- 📌 Advanced Agile frameworks (SAFe, LeSS)  
-- 📌 Data-driven project management using Power BI  
-- 📌 Leadership skills and change management  
+- 📌 PowerFX & Advanced PCF Controls  
+- 📌 Copilot & AI Builder integration with Dynamics 365  
+- 📌 Performance tuning for Model-Driven Apps  
 
 ---
 
-> 🚀 Passionate about delivering projects that create real business value.
+> 🚀 Building intelligent, scalable, and secure Dynamics 365 solutions for modern businesses.
