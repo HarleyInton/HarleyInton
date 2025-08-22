@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I’m Andy Saeed
 
-<!--
-**HarleyInton/HarleyInton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📋 **Project Manager | Agile Practitioner | Delivery Specialist**  
+📧 **Email:** [andysaeed937@gmail.com](mailto:andysaeed937@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Core Skills
+
+- 🔹 **Project Planning & Scheduling** – Agile, Scrum, Waterfall  
+- 🔹 **Team Leadership & Collaboration**  
+- 🔹 **Risk Management & Mitigation**  
+- 🔹 **Stakeholder Communication & Reporting**  
+- 🔹 **Resource Allocation & Budgeting**  
+- 🔹 **Tools:** Jira, Trello, Microsoft Project, Asana, MS Excel  
+
+---
+
+## 🚀 Interests & Experience
+
+- ✅ Managing cross-functional teams for successful project delivery  
+- ✅ Driving Agile transformation and process improvement  
+- ✅ Coordinating multi-phase software development projects  
+- ✅ Ensuring timely delivery within scope and budget  
+
+---
+
+## 🌱 Currently Learning
+
+- 📌 Advanced Agile frameworks (SAFe, LeSS)  
+- 📌 Data-driven project management using Power BI  
+- 📌 Leadership skills and change management  
+
+---
+
+> 🚀 Passionate about delivering projects that create real business value.
